@@ -1,0 +1,54 @@
+{
+  "name": "progomedia-admin-template",
+  "version": "1.0.0",
+  "description": "Admin template using bootstrap from progomedia web developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandekriz/progomedia-admin-template.git"
+  },
+  "keywords": [
+    "admin",
+    "template",
+    "admin",
+    "dahboard",
+    "bootstrap",
+    "5"
+  ],
+  "author": "Progomedia web developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vandekriz/progomedia-admin-template/issues"
+  },
+  "homepage": "https://github.com/vandekriz/progomedia-admin-template#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "@popperjs/core": "^2.11.7",
+    "autoprefixer": "^10.4.14",
+    "babel-loader": "^9.1.2",
+    "bootstrap": "^5.2.3",
+    "css-loader": "^6.7.3",
+    "dotenv-webpack": "^8.0.1",
+    "fast-glob": "^3.2.12",
+    "html-webpack-plugin": "^5.5.0",
+    "mime-types": "^2.1.35",
+    "mini-css-extract-plugin": "^2.7.5",
+    "path": "^0.12.7",
+    "postcss": "^8.4.21",
+    "postcss-loader": "^7.2.4",
+    "postcss-preset-env": "^8.3.1",
+    "pug-loader": "^2.4.0",
+    "sass": "^1.62.0",
+    "sass-loader": "^13.2.2",
+    "sharp": "^0.32.0",
+    "trash": "^8.1.1",
+    "uuid": "^9.0.0",
+    "webpack": "^5.78.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.13.2"
+  }
+}
